@@ -1,0 +1,17 @@
+#Entorno virtual (python)
+.venv/
+venv/
+
+
+#Archivos de Python
+__pycache__/
+*.pyc
+
+#Archivos generados por nuestro código
+*.jpg
+*.png
+
+#Datos de ECG
+*.dat
+*.hea
+*.atr
